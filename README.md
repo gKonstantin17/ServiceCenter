@@ -10,6 +10,6 @@
 Стек технологий:
 ```C#, PostrgeSQL, Entity Framework, VueJS, Swagger, REST API```
 
-![1](img/1.pmg)
+![1](img/1.png)
 
 
